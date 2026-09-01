@@ -166,7 +166,6 @@ A sample user flow includes:
 ![Uploading image.png…]()
 ![Uploading image.png…]()
 
-
 - entering a pincode
 - validation message for invalid input
 - search result card with area details
