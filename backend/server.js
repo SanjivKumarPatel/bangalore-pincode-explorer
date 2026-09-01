@@ -1,6 +1,7 @@
 import cors from 'cors'
 import dotenv from 'dotenv'
 import express from 'express'
+import pincodeRouter from './routes/pincodeRoutes.js'
 
 dotenv.config()
 
@@ -8,6 +9,7 @@ const app = express()
 
 app.use(cors())
 app.use(express.json())
+app.use('/api/pincode', pincodeRouter)
 
 /**
  * @desc Check if the API server is running
