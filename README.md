@@ -1,4 +1,4 @@
-# Bangalore Pincode Explorer 🚀
+<img width="1902" height="881" alt="image" src="https://github.com/user-attachments/assets/22aadd79-3415-4fb8-a09f-5917515ac651" /># Bangalore Pincode Explorer 🚀
 
 A full-stack web application that helps users quickly search for Bangalore postal information using a 6-digit pincode. The app validates the input, queries the backend, and displays key details such as the area, district, and state.
 
@@ -163,6 +163,9 @@ The application includes fallback handling for:
 ## Screenshots
 
 A sample user flow includes:
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 - entering a pincode
 - validation message for invalid input
