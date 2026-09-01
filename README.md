@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc886b72-efe7-4999-9507-228ed572a50d" />
-# Bangalore Pincode Explorer 🚀
+<img width="1875" height="886" alt="image" src="https://github.com/user-attachments/assets/9745eb66-69d2-4899-a317-b5ef36f08a08" /># Bangalore Pincode Explorer 🚀
 
 A full-stack web application that helps users quickly search for Bangalore postal information using a 6-digit pincode. The app validates the input, queries the backend, and displays key details such as the area, district, and state.
 
@@ -162,11 +161,13 @@ The application includes fallback handling for:
 - Unexpected server-side errors
 
 ## Screenshots
+### Home Page: 
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/6ce546ab-366d-47eb-b6a2-6080fef64afa" />
 
 A sample user flow includes:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/914960a9-9fd8-4c07-a1a3-76a9ea7f73ff" />
+<img width="1875" height="886" alt="image" src="https://github.com/user-attachments/assets/166c27f0-4643-4deb-9a33-2ff332507cf2" />
 
-- entering a pincode
+- entering a pin code
 - validation message for invalid input
 - search result card with area details
 - error state for unavailable pincodes
